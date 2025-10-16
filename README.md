@@ -8,7 +8,7 @@
 ## 🚀 Sobre mí
 
 - 🎓 **Estudiante de Ingeniería en Sistemas Computacionales** en la Escuela Superior de Cómputo, IPN
-- 🔬 **Investigador** enfocado en Bioinformática, Sistemas Complejos, Computación natural y Sustentabilidad
+- 🔬 Con **enfoque** hacia la Bioinformática, los Sistemas Complejos, la Computación natural y a los proyectos Sustentables
 - 🌱 Actualmente trabajando en mi **Trabajo Terminal** sobre monitoreo electrofisiológico de plantas
 - 🌿 **Apasionado** por la intersección entre tecnología y naturaleza
 
