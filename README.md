@@ -1,6 +1,15 @@
 # ¡Hola! 👋 Soy José Ramón Parra Mancilla
 
 <div align="center">
+  <!-- Banner con tema científico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=José%20Ramón%20Parra&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  
+  <!-- GIF relacionado con bioinformática/DNA -->
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" />
+  
+  <!-- Texto animado -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas+Computacionales;Investigador+en+Bioinform%C3%A1tica;Desarrollador+de+Sistemas+Complejos;Entusiasta+de+la+Sustentabilidad" alt="Typing SVG" />
 </div>
 
@@ -9,19 +18,16 @@
 - 🎓 **Estudiante de Ingeniería en Sistemas Computacionales** en la Escuela Superior de Cómputo, IPN
 - 🔬 **Investigador** enfocado en Bioinformática, Sistemas Complejos y Sustentabilidad
 - 🌱 Actualmente trabajando en mi **Trabajo Terminal** sobre monitoreo electrofisiológico de plantas
-- 🧠 **Miembro activo** del Centro de Investigación en Computación - Ciencias Cognitivas Computacionales
 - 🌿 **Apasionado** por la intersección entre tecnología y naturaleza
 
 ## 🔬 Proyectos Destacados
 
 ### 🌵 Sistema de Monitoreo Electrofisiológico del Garambullo
-**Trabajo Terminal 2025-2026**
 - Análisis de señales bioeléctricas en *Myrtillocactus geometrizans*
 - Diseño de circuitos de amplificación y filtrado
 - Aplicación de técnicas de procesamiento de señales en plantas
 
 ### 🎮 Investigación en Autómatas Celulares - Conway's Game of Life
-**2025**
 - Estudio de patrones still life y estructuras eater
 - Análisis matemático de evolución de sistemas complejos
 - Implementación de casos incrementales con Golly
@@ -70,21 +76,6 @@
 - 🌱 **Sustentabilidad**: Tecnología aplicada a la conservación
 - 🧠 **Ciencias Cognitivas Computacionales**: Modelado computacional de procesos cognitivos
 - 🌿 **Electrofisiología Vegetal**: Análisis de señales bioeléctricas en plantas
-
-## 🏆 Certificaciones y Participaciones
-
-- 🎓 **Centro de Investigación en Computación, IPN**
-  - Curso de Introducción a las Ciencias Cognitivas Computacionales (2023-2024)
-  - 1° Escuela de Verano CCC y PLN (2023)
-  - 3° Escuela de Verano CCC y PLN (2025)
-- 🌿 **Instituto Mexicano de Fauna, Flora y Sustentabilidad Social**
-  - Taller de Plantas Carnívoras (2022)
-
-## 💼 Experiencia
-
-- 🛒 **Expositor en Animalia México (OEFFEX)** con SkullPlants (2024-2025)
-  - Atención al cliente y resolución de problemas
-  - Trabajo colaborativo en eventos especializados
 
 ## 📫 Conectemos
 
