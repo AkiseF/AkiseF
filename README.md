@@ -13,6 +13,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas+Computacionales;Investigador+en+Bioinform%C3%A1tica;Desarrollador+de+Sistemas+Complejos;Entusiasta+de+la+Sustentabilidad" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:83a4d4,100:b6fbff&height=150&section=header&text=Bioinformática%20%26%20Sistemas%20Complejos&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=José%20Ramón%20Parra&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#83a4d4;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#b6fbff;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="800" height="200" fill="url(#gradient)" />
+    <text x="400" y="100" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">José Ramón Parra Mancilla</text>
+    <text x="400" y="130" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">Bioinformática • Sistemas Complejos • Sustentabilidad</text>
+  </svg>
+</div>
+
 ## 🚀 Sobre mí
 
 - 🎓 **Estudiante de Ingeniería en Sistemas Computacionales** en la Escuela Superior de Cómputo, IPN
